@@ -7,7 +7,7 @@
 > **K-Beauty Export Tracker & AI Localization Agent**
 > From Real-time Customs Data Analysis to FDA-Compliant Marketing Transcreation.
 
-Welcome to the **Beauty Insight Lab MVP** monorepo. This repository houses the complete tech stack for the "K-Beauty Export Tracker" and "AI Localization Agent". [Live Link](https://www.beautyinsightlab.com/)
+Welcome to the **Beauty Insight Lab MVP** monorepo. This repository houses the complete tech stack for the "K-Beauty Export Tracker" and "AI Localization Agent".
 
 <div align="center">
   <table>
