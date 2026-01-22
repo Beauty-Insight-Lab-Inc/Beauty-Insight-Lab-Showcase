@@ -1,20 +1,16 @@
 # Beauty Insight Lab MVP: Integrated Dashboard
+[![Next.js](https://img.shields.io/badge/Next.js-16.1-black)]() [![FastAPI](https://img.shields.io/badge/FastAPI-Python-009688)]() [![Vercel](https://img.shields.io/badge/Deployment-Vercel-triangle)]() [![GA4](https://img.shields.io/badge/Analytics-GA4-orange)]()
 
 > [!IMPORTANT]
 > **MIT License Final Release (Public Archive)**
 >
-> This version (`mit-final-version`) serves as the initial MVP model of Beauty Insight Lab, released under the MIT License.
->
-> **Commercial Transition Notice**:
-> Starting from the next update, the source code will transition to a **Private Repository** for commercialization and security reasons.
+> This repository is a public introduction to the 'Beauty Insight Lab' project. The actual source code is currently private for commercial security reasons." (이 레포지토리는 프로젝트 소개용입니다. 실제 소스 코드는 상용 보안을 위해 비공개로 전환되었습니다
 >
 > For public introductions and updates, please visit our showcase repository:
 > 👉 **[Beauty-Insight-Lab-Showcase](https://github.com/Beauty-Insight-Lab-Inc/Beauty-Insight-Lab-Showcase)**
 
 > **K-Beauty Export Tracker & AI Localization Agent**
 > From Real-time Customs Data Analysis to FDA-Compliant Marketing Transcreation.
-
-[![Next.js](https://img.shields.io/badge/Next.js-16.1-black)]() [![FastAPI](https://img.shields.io/badge/FastAPI-Python-009688)]() [![Vercel](https://img.shields.io/badge/Deployment-Vercel-triangle)]() [![GA4](https://img.shields.io/badge/Analytics-GA4-orange)]()
 
 Welcome to the **Beauty Insight Lab MVP** monorepo. This repository houses the complete tech stack for the "K-Beauty Export Tracker" and "AI Localization Agent".
 
